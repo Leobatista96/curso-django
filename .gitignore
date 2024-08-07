@@ -130,3 +130,4 @@ db copy.sqlite3
 static/
 ~$django.docx
 django.docx
+~WRL1135.tmp
